@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/cs4026/Eos-test/issues"
   },
-  "homepage": "https://github.com/cs4026/Eos-test#readme"
+  "homepage": "https://github.com/cs4026/Eos-test#readme",
+  "dependencies": {
+    "eosjs": "^6.1.5"
+  }
 }
